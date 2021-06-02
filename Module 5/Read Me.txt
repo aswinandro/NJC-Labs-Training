@@ -1,0 +1,25 @@
+
+
+Implementation Url
+
+http://flight-assignment-andro.us-e2.cloudhub.io
+
+
+http://flight-assignment-andro.us-e2.cloudhub.io/api/flights
+
+
+Proxy Url: http://assignment-flights-api-v3-andro.us-e2.cloudhub.io/
+
+
+http://assignment-flights-api-v3-andro.us-e2.cloudhub.io/flights
+
+
+Free Version - Limit Per Minute SLA Based Policy
+
+		Client ID : 3de0e23eaf6f45cd9214a8f443087334
+		Client Secret: 883aA4BAf4c1442C9950DB93b3B7060D
+
+Silver Version - Limit Per Second SLA Based Policy
+
+		Client ID : 4d52265b614344759da962bc2994f855
+		Client Secret : 1A74D34A36444bB3BdAe427EE3f1a0AE
