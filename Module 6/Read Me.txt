@@ -1,0 +1,16 @@
+
+
+
+
+
+
+To show default value Maxine
+
+localhost:8081/hello
+
+
+
+To Show Query Parameters -- fname
+
+
+localhost:8081/hello?fname=Aswin
