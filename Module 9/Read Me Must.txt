@@ -1,0 +1,19 @@
+
+Couldnt use the naming conventions in the manual
+
+when i change a flow name it gives me a error
+
+   No listener for endpoint: /flights 
+
+
+so i used \flightsy at first now you can access using \flights
+
+I dont know my anypoint studio is behaving weird i chkd the mule artifact + implementation xml tooo
+
+
+
+Deleted the default destination string
+
+Scatter Gathered and added choice router tooo
+
+
